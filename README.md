@@ -1,2 +1,1 @@
-# aeroCode-library
-A collection of aviation calculation tools written in C for flight planning.
+# AeroCode Library Aviation calculation tools for pilots. 
